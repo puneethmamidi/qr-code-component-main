@@ -1,0 +1,41 @@
+@font-face {
+    src: url('Outfit-VariableFont_wght.ttf');
+    font-family: outfit;
+}
+
+
+body{
+    background-color:hsl(212, 45%, 89%);
+}
+
+.card{
+    width:17rem;
+    height:100%;
+    text-align: center;
+    background-color:hsl(0, 0%, 100%);
+    padding:0.2rem;
+    border-radius:1rem;
+    display:block;
+    margin:10rem auto 0rem auto;
+}
+.content{
+    padding:1rem;
+    font-family:outfit;
+}
+.content h1{
+    font-family:outfit;
+    font-size:1.2rem;
+    color: hsl(218, 44%, 22%);
+}
+figure{
+    margin:0;
+}
+figure img{
+    width:15rem;
+    border-radius:1rem;
+}
+
+p{
+    font-size: 0.9rem;
+    color:hsl(220, 10%, 50%);
+}
