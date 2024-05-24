@@ -9,14 +9,14 @@ body{
 }
 
 .card{
-    width:17rem;
+    width:18rem;
     height:100%;
     text-align: center;
     background-color:hsl(0, 0%, 100%);
     padding:0.2rem;
     border-radius:1rem;
     display:block;
-    margin:10rem auto 0rem auto;
+    margin:8rem auto 0rem auto;
 }
 .content{
     padding:1rem;
@@ -31,7 +31,7 @@ figure{
     margin:0;
 }
 figure img{
-    width:15rem;
+    width:16rem;
     border-radius:1rem;
 }
 
