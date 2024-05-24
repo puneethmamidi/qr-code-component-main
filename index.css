@@ -9,7 +9,7 @@ body{
 }
 
 .card{
-    width:18rem;
+    width:18.5rem;
     height:100%;
     text-align: center;
     background-color:hsl(0, 0%, 100%);
@@ -19,7 +19,7 @@ body{
     margin:8rem auto 0rem auto;
 }
 .content{
-    padding:1rem;
+    padding:1.35rem;
     font-family:outfit;
 }
 .content h1{
